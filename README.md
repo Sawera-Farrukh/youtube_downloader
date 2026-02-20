@@ -39,12 +39,11 @@ This web app allows users to download videos in **the highest available quality 
 
 ## 📂 Project Structure
 
+```
 youtube_downloader/
 │── templates/
-│ └── index.html
-│── downloads/     # Stores downloaded videos (created automatically at runtime)
+│   └── index.html
+│── downloads/        # Stores downloaded videos (auto-created at runtime)
 │── app.py
 │── README.md
-
-
----
+```
