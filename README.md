@@ -18,7 +18,7 @@ This web app allows users to download videos in **the highest available quality 
 
 ## 📸 Project Preview
 
-![App Screenshot](assets/preview.png)
+![App Screenshot](youtube_downloader/assets/preview.png)
 
 ---
 
